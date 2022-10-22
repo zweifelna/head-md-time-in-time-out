@@ -6,13 +6,13 @@ I took a picture of every device where I could watch what time is it (in my hous
 #### Alarm Clock
 ![Alarm Clock](images/2022-10-22_alarmClock.jpg)
 #### (my) Smartphone
-![Smartphone](images/2022-10-22_smartphone)
+![Smartphone](images/2022-10-22_smartphone.jpg)
 #### Ipad
-![Ipad](images/2022-10-22_IPad)
+![Ipad](images/2022-10-22_IPad.jpg)
 #### Microwave
-![Microwave](images/2022-10-22_microwave)
+![Microwave](images/2022-10-22_microwave.jpg)
 #### Oven
-![Oven](images/2022-10-22_oven)
+![Oven](images/2022-10-22_oven.jpg)
 #### Chromecast
 ![Chromecast](images/2022-10-22_chromecast.jpg)
 #### Home-made Sundial
