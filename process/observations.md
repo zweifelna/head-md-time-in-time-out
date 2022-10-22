@@ -4,20 +4,52 @@
 ### Home time
 I took a picture of every device where I could watch what time is it (in my house) :
 #### Alarm Clock
-![Alarm Clock](images/2022-10-22_alarmClock.jpg)
+<img
+  src="images/2022-10-22_alarmClock.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 200px">
 #### (my) Smartphone
-![Smartphone](images/2022-10-22_smartphone.jpg)
+<img
+  src="images/2022-10-22_smartphone.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 200px">
 #### Ipad
-![Ipad](images/2022-10-22_IPad.jpg)
+<img
+  src="images/2022-10-22_IPad.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 200px">
 #### Microwave
-![Microwave](images/2022-10-22_microwave.jpg)
-#### Oven
-![Oven](images/2022-10-22_oven.jpg)
-#### Chromecast
-![Chromecast](images/2022-10-22_chromecast.jpg)
-#### Home-made Sundial
-![Sundial](images/2022-10-22_sundial.jpg)
-#### Tamagotchi
-![Tamagotchi](images/2022-10-22_tamagotchi.jpg)
+<img
+  src="images/2022-10-22_microwave.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 200px">
 
+#### Oven
+<img
+  src="images/2022-10-22_oven.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 200px">
+#### Chromecast
+<img
+  src="images/2022-10-22_chromecast.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 200px">
+#### Home-made Sundial
+<img
+  src="images/2022-10-22_sundial.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 200px">
+#### Tamagotchi
+<img
+  src="images/2022-10-22_tamagotchi.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 200px">
 ### Time in the city
