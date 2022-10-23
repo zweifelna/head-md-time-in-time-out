@@ -56,4 +56,8 @@ I took a picture of every device where I could watch what time is it (in my hous
 #### Records of the bell
 ##### Vevey - 16h00
 
+https://user-images.githubusercontent.com/33692087/197404087-13735791-bb41-4a34-b373-9b5e5b251863.mp4
+
 ##### La Tour-de-Peilz - 17h00
+
+https://user-images.githubusercontent.com/33692087/197404090-9f23d93d-0df8-4edf-9ec9-e69a9aa95f5b.mp4
