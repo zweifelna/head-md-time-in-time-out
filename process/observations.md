@@ -13,7 +13,7 @@ I took a picture of every device where I could watch what time is it (in my hous
   alt="iPad"
   style="display: inline-block; margin: 0 auto; width: 200px">
   <img
-  src="images/2022-10-22_smartphone.jpg"
+  src="images/2022-10-25_smartphone.jpg"
   alt="smartphone"
   style="display: inline-block; margin: 0 auto; width: 200px">
   <img
