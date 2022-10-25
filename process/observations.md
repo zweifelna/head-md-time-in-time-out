@@ -36,6 +36,15 @@ I took a picture of every device where I could watch what time is it (in my hous
   src="images/2022-10-22_tamagotchi.jpg"
   alt="tamagotchi"
   style="display: inline-block; margin: 0 auto; width: 200px">
+  
+  ### Plan
+  A plan of the time device disposition in the house :
+  
+  <img
+  src="images/2022-10-24_plan.jpg"
+  alt="plan"
+  style="display: inline-block; margin: 0 auto; width: 400px">
+
 
 ### Time in the city
 #### Records of the bell
@@ -47,11 +56,82 @@ https://user-images.githubusercontent.com/33692087/197404087-13735791-bb41-4a34-
 
 https://user-images.githubusercontent.com/33692087/197404090-9f23d93d-0df8-4edf-9ec9-e69a9aa95f5b.mp4
 
-## 2022-10-24
-  ### Plan
-  A plan of the time device disposition in the house :
-  
+#### Cities clock
+ <img
+  src="images/2022-10-22_clock1.jpg"
+  alt="clock"
+  style="display: inline-block; margin: 0 auto; width: 200px">
+   <img
+  src="images/2022-10-22_clock2.jpg"
+  alt="clock"
+  style="display: inline-block; margin: 0 auto; width: 200px">
+   <img
+  src="images/2022-10-22_clock3.jpg"
+  alt="clock"
+  style="display: inline-block; margin: 0 auto; width: 200px">
+   <img
+  src="images/2022-10-22_clock4.jpg"
+  alt="clock"
+  style="display: inline-block; margin: 0 auto; width: 200px">
+   <img
+  src="images/2022-10-22_clock5.jpg"
+  alt="clock"
+  style="display: inline-block; margin: 0 auto; width: 200px">
+   <img
+  src="images/2022-10-22_clock6.jpg"
+  alt="clock"
+  style="display: inline-block; margin: 0 auto; width: 200px">
+
+   <img
+  src="images/2022-10-22_clock8.jpg"
+  alt="clock"
+  style="display: inline-block; margin: 0 auto; width: 200px">
+   <img
+  src="images/2022-10-22_clock9.jpg"
+  alt="clock"
+  style="display: inline-block; margin: 0 auto; width: 200px">
+   <img
+  src="images/2022-10-22_clock10.jpg"
+  alt="clock"
+  style="display: inline-block; margin: 0 auto; width: 200px">
+   <img
+  src="images/2022-10-25_sundialLTDP.jpg"
+  alt="clock"
+  style="display: inline-block; margin: 0 auto; width: 200px">
+
+  ### Commemorative plaques
+   <img
+  src="images/2022-10-22_plaque1.jpg"
+  alt="plaque"
+  style="display: inline-block; margin: 0 auto; width: 200px">
   <img
-  src="images/2022-10-24_plan.jpg"
-  alt="plan"
-  style="display: inline-block; margin: 0 auto; width: 400px">
+  src="images/2022-10-22_plaque2.jpg"
+  alt="plaque"
+  style="display: inline-block; margin: 0 auto; width: 200px">
+  <img
+  src="images/2022-10-22_plaque3.jpg"
+  alt="plaque"
+  style="display: inline-block; margin: 0 auto; width: 200px">
+  <img
+  src="images/2022-10-22_plaque4.jpg"
+  alt="plaque"
+  style="display: inline-block; margin: 0 auto; width: 200px">
+  <img
+  src="images/2022-10-22_plaque5.jpg"
+  alt="plaque   "
+  style="display: inline-block; margin: 0 auto; width: 200px">
+  
+  ### Boat schedules
+ <img
+  src="images/2022-10-22_boatSchedule1.jpg"
+  alt="plaque"
+  style="display: inline-block; margin: 0 auto; width: 200px">
+   <img
+  src="images/2022-10-22_boatSchedule2.jpg"
+  alt="plaque"
+  style="display: inline-block; margin: 0 auto; width: 200px">
+   <img
+  src="images/2022-10-22_boatSchedule3.jpg"
+  alt="plaque"
+  style="display: inline-block; margin: 0 auto; width: 200px">
+
