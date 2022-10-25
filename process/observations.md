@@ -135,3 +135,11 @@ https://user-images.githubusercontent.com/33692087/197404090-9f23d93d-0df8-4edf-
   alt="plaque"
   style="display: inline-block; margin: 0 auto; width: 200px">
 
+## 2022-10-25
+### Phone Time Check
+A count of every time check I did on my phone (and a comparaison with Luka's checks) for two days :
+
+<img
+  src="images/2022-10-25_phoneTimeCheck.jpg"
+  alt="timeCheck"
+  style="display: inline-block; margin: 0 auto; width: 600px">
