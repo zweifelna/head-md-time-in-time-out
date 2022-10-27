@@ -143,3 +143,6 @@ A count of every time check I did on my phone (and a comparaison with Luka's che
   src="images/2022-10-25_phoneTimeCheck.jpg"
   alt="timeCheck"
   style="display: inline-block; margin: 0 auto; width: 600px">
+
+## 2022-10-27
+### Country Music
