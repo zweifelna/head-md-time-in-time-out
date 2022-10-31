@@ -146,3 +146,5 @@ A count of every time check I did on my phone (and a comparaison with Luka's che
 
 ## 2022-10-27
 ### Country Music
+
+https://user-images.githubusercontent.com/33692087/198288109-616338d5-0def-4f51-9843-22d63e3413b4.mp4
