@@ -145,6 +145,65 @@ A count of every time check I did on my phone (and a comparaison with Luka's che
   style="display: inline-block; margin: 0 auto; width: 600px">
 
 ## 2022-10-27
+I walked around Geneva, taking pictures and recording sounds in the same way as before.
+
+### Country Music
+One sound in particular caught my attention: the music of a country music player with the sound of huge constructions in parallel.
+
+https://user-images.githubusercontent.com/33692087/198288109-616338d5-0def-4f51-9843-22d63e3413b4.mp4
+
+## 2022-10-28/29
+To continue with the intricate mixed sounds, I captured other sounds. Two of them stand out in particular : a kids riot with a sound of a drop of water and a balafon musician playing in the Eaux-Vives in Geneva. I then selected the interesting moments, and had four people listen to them and draw what the sounds evoked (without knowing what it was).
+
+### Balafon Music
+
+https://user-images.githubusercontent.com/33692087/199069354-9b48b8d0-861b-4f74-905b-21590f6df9b5.mp4
+
+<img
+  src="images/2022-10-30_drawingBalafon1.jpg"
+  alt="timeCheck"
+  style="display: inline-block; margin: 0 auto; width: 500px">
+<img
+  src="images/2022-10-30_drawingBalafon2.jpg"
+  alt="timeCheck"
+  style="display: inline-block; margin: 0 auto; width: 500px">
+<img
+  src="images/2022-10-30_drawingBalafon3.jpg"
+  alt="timeCheck"
+  style="display: inline-block; margin: 0 auto; width: 500px">
+ 
+### Kids Riot
+
+https://user-images.githubusercontent.com/33692087/199071002-c53b1104-8b7f-4a5e-b8c4-53ed84e66b65.mp4
+
+<img
+  src="images/2022-10-30_drawingKidsRiot1.jpg"
+  alt="timeCheck"
+  style="display: inline-block; margin: 0 auto; width: 500px">
+<img
+  src="images/2022-10-30_drawingKidsRiot2.jpg"
+  alt="timeCheck"
+  style="display: inline-block; margin: 0 auto; width: 500px">
+<img
+  src="images/2022-10-30_drawingKidsRiot3.jpg"
+  alt="timeCheck"
+  style="display: inline-block; margin: 0 auto; width: 500px">
+  
+  
 ### Country Music
 
 https://user-images.githubusercontent.com/33692087/198288109-616338d5-0def-4f51-9843-22d63e3413b4.mp4
+
+<img
+  src="images/2022-10-30_drawingCountry1.jpg"
+  alt="timeCheck"
+  style="display: inline-block; margin: 0 auto; width: 500px">
+<img
+  src="images/2022-10-30_drawingCountry2.jpg"
+  alt="timeCheck"
+  style="display: inline-block; margin: 0 auto; width: 500px">
+<img
+  src="images/2022-10-30_drawingCountry3.jpg"
+  alt="timeCheck"
+  style="display: inline-block; margin: 0 auto; width: 500px">
+
