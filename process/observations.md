@@ -171,6 +171,10 @@ https://user-images.githubusercontent.com/33692087/199069354-9b48b8d0-861b-4f74-
   src="images/2022-10-30_drawingBalafon3.jpg"
   alt="timeCheck"
   style="display: inline-block; margin: 0 auto; width: 500px">
+<img
+  src="images/2022-10-30_drawingBalafon4.jpg"
+  alt="timeCheck"
+  style="display: inline-block; margin: 0 auto; width: 500px">
  
 ### Kids Riot
 
@@ -186,6 +190,10 @@ https://user-images.githubusercontent.com/33692087/199071002-c53b1104-8b7f-4a5e-
   style="display: inline-block; margin: 0 auto; width: 500px">
 <img
   src="images/2022-10-30_drawingKidsRiot3.jpg"
+  alt="timeCheck"
+  style="display: inline-block; margin: 0 auto; width: 500px">
+<img
+  src="images/2022-10-30_drawingKidsRiot4.jpg"
   alt="timeCheck"
   style="display: inline-block; margin: 0 auto; width: 500px">
   
@@ -204,6 +212,10 @@ https://user-images.githubusercontent.com/33692087/198288109-616338d5-0def-4f51-
   style="display: inline-block; margin: 0 auto; width: 500px">
 <img
   src="images/2022-10-30_drawingCountry3.jpg"
+  alt="timeCheck"
+  style="display: inline-block; margin: 0 auto; width: 500px">
+<img
+  src="images/2022-10-30_drawingCountry4.jpg"
   alt="timeCheck"
   style="display: inline-block; margin: 0 auto; width: 500px">
 
