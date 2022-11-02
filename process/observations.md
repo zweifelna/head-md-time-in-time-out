@@ -175,6 +175,26 @@ https://user-images.githubusercontent.com/33692087/199069354-9b48b8d0-861b-4f74-
   src="images/2022-10-30_drawingBalafon4.jpg"
   alt="timeCheck"
   style="display: inline-block; margin: 0 auto; width: 500px">
+#### Key words
+- Carillon
+- Xylophone
+- École/écoliers
+- Endroit de passage
+- Personnes
+- Tuk Tuk
+- Grande rue
+- Travaux
+- Magasins
+- Bois
+- Plein de vie
+- Marché
+- Classe de musique
+- Repas de midi
+- Caisse magasin
+- Cantine
+- Mer
+- Poissons
+- Vagues
  
 ### Kids Riot
 
@@ -197,6 +217,12 @@ https://user-images.githubusercontent.com/33692087/199071002-c53b1104-8b7f-4a5e-
   alt="timeCheck"
   style="display: inline-block; margin: 0 auto; width: 500px">
   
+#### Key words
+- Boule de neige
+- Garderie Ikea
+- Piscine à boules
+- Enfants
+- Cuisine
   
 ### Country Music
 
@@ -218,6 +244,21 @@ https://user-images.githubusercontent.com/33692087/198288109-616338d5-0def-4f51-
   src="images/2022-10-30_drawingCountry4.jpg"
   alt="timeCheck"
   style="display: inline-block; margin: 0 auto; width: 500px">
+  
+#### Key words
+- Train station
+- Music
+- USA
+- Road trip
+- Country
+- Ocean
+- Noise
+- Waves
+- Beach
+- Memories reminder
+- "Help me"
+- Musician
+- Helicopter
 
 ### Sound Tram Doors
 During sound selection,  I discovered an interesting analogy between the object emitting the noise, and the shape of the sound wave on the sound recording application.
