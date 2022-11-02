@@ -219,3 +219,11 @@ https://user-images.githubusercontent.com/33692087/198288109-616338d5-0def-4f51-
   alt="timeCheck"
   style="display: inline-block; margin: 0 auto; width: 500px">
 
+### Sound Tram Doors
+During sound selection,  I discovered an interesting analogy between the object emitting the noise, and the shape of the sound wave on the sound recording application.
+The recording of a tram journey showed me the sound of doors opening and closing, which sounds like an open door or gate.
+
+<img
+  src="images/2022-10-28_soundDoors.jpg"
+  alt="timeCheck"
+  style="display: inline-block; margin: 0 auto; width: 500px">
