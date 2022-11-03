@@ -227,3 +227,18 @@ The recording of a tram journey showed me the sound of doors opening and closing
   src="images/2022-10-28_soundDoors.jpg"
   alt="timeCheck"
   style="display: inline-block; margin: 0 auto; width: 500px">
+
+## 2022-10-02
+List of actions with the sound:
+- Listen to a sound
+- Cut the sound
+- Record the sound
+- Harmonize two sounds
+- Synchronize sounds
+- Make sound
+- Find a sound
+- Search for a sound
+
+Extended actions :
+- Chercher les "oasis", des endroits ou les rythmes sont réguliers
+- Se synchroniser avec d'autres personnes pour créer des oasis
