@@ -281,5 +281,6 @@ List of actions with the sound:
 - Search for a sound
 
 Extended actions :
-- Chercher les "oasis", des endroits ou les rythmes sont réguliers
-- Se synchroniser avec d'autres personnes pour créer des oasis
+- Look for 'oases', places where the rhythms are regular
+- Synchronising with others to create oases
+- 
