@@ -6,3 +6,4 @@ List of the different pitches during the project :
 - [Second pitch 2022-10-27](pitch-2022-10-27.md)
 - [Third pitch 2022-11-02](pitch-2022-11-02.md)
 - [Fourth pitch 2022-11-03](pitch-2022-11-03.md)
+- [Fifth pitch 2022-11-28](pitch-2022-11-28.md)
