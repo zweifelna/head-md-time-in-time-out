@@ -25,12 +25,11 @@ I took some pictures on pinterest for inspiration:
   alt="xylophone"
   style="display: inline-block; margin: 0 auto; width: 200px">
 
-<img
+ <img
  src="images/references-images/2022-12-6_soundWaves1.jpg"
  alt="sound waves"
  style="display: inline-block; margin: 0 auto; width: 200px">
-
-<img
+ <img
  src="images/references-images/2022-12-6_soundWaves2.jpg"
  alt="sound waves"
  style="display: inline-block; margin: 0 auto; width: 200px">
