@@ -449,87 +449,16 @@ void loop() {
         break;
       case 2:
         Serial.println("va vibrer 2");
-        currentMillis = millis();
-        period = pattern[i];
-        if (currentMillis - startMillis >= period) {
-          if (!vibrating) {
-            analogWrite(mvm, power[state-2][i]);
-            Serial.println("Vibre");
-            vibrating = true;
-          }
-          micOutput = findPTPAmp();
-          if (micOutput > 500) {
-            Serial.println("knock");
-            beatCheck[i] = true;
-          }
-          if (currentMillis - startMillis >= period + 400) {
-            analogWrite(mvm, 0);
-            Serial.print("Vibre plus ");
-            Serial.println(period);
-            vibrating = false;
-            startMillis = millis();
-            i++;
-          }
-        }
+        vibration();
         break;
 
         case 3:
-      
-
         Serial.println("va vibrer 3");
-        currentMillis = millis();
-        period = pattern[i];
-        if (currentMillis - startMillis >= period) {
-          if (!vibrating) {
-            analogWrite(mvm, power[state-2][i]);
-            Serial.println("Vibre");
-            vibrating = true;
-          }
-          micOutput = findPTPAmp();
-          if (micOutput > 500) {
-            Serial.println("knock");
-            beatCheck[i] = true;
-          }
-          if (currentMillis - startMillis >= period + 400) {
-            analogWrite(mvm, 0);
-            Serial.print("Vibre plus ");
-            Serial.println(period);
-            vibrating = false;
-            startMillis = millis();
-            i++;
-          }
-        }
+        vibration();
         break;
     }
 
-    if (beatCheck[0]) {
-      Serial.println("Premier valide");
-      successCount++;
-    }
-    if (beatCheck[1]) {
-      Serial.println("Deuxieme valide");
-      successCount++;
-    }
-    if (beatCheck[2]) {
-      Serial.println("Troisieme valide");
-      successCount++;
-    }
-    if (beatCheck[3]) {
-      Serial.println("Quatrieme valide");
-      successCount++;
-    }
-    if (beatCheck[4]) {
-      Serial.println("Cinquieme valide");
-      successCount++;
-    }
-    if (beatCheck[5]) {
-      Serial.println("Sixieme valide");
-      successCount++;
-    }
-    if(successCount == 6){
-      success = true;
-      successCount = 0;
-    }
+    checkSuccess();
 
     if(i == 5){
       i = 0;
@@ -565,7 +494,36 @@ void loop() {
 
 
 
-
+void checkSuccess(){
+  if (beatCheck[0]) {
+      Serial.println("Premier valide");
+      successCount++;
+    }
+    if (beatCheck[1]) {
+      Serial.println("Deuxieme valide");
+      successCount++;
+    }
+    if (beatCheck[2]) {
+      Serial.println("Troisieme valide");
+      successCount++;
+    }
+    if (beatCheck[3]) {
+      Serial.println("Quatrieme valide");
+      successCount++;
+    }
+    if (beatCheck[4]) {
+      Serial.println("Cinquieme valide");
+      successCount++;
+    }
+    if (beatCheck[5]) {
+      Serial.println("Sixieme valide");
+      successCount++;
+    }
+    if(successCount == 6){
+      success = true;
+      successCount = 0;
+    }
+}
 
 
 // Find the Peak-to-Peak Amplitude Function
@@ -617,60 +575,29 @@ int VUMeter(int micAmp) {
   }
 }
 
-void interaction(int sensibility, int pattern[], int power[], int size) {
-  if (micOutput > sensibility) {
-    Serial.println("in if");
-
-    
-    for (int j = 0; j < size; j++) {
-      beatCheck[j] = false;
-    }
-
-    while (k < size) {
-      Serial.println("in while");
-      currentMillis = millis();
-      period = pattern[k];
-      if (currentMillis - startMillis >= period) {
-        if (!running) {
-          analogWrite(mvm, power[k]);
-          Serial.println("Vibre");
-          running = true;
+void vibration() {
+  currentMillis = millis();
+        period = pattern[state-2][i];
+        if (currentMillis - startMillis >= period) {
+          if (!vibrating) {
+            analogWrite(mvm, power[state-2][i]);
+            Serial.println("Vibre");
+            vibrating = true;
+          }
+          micOutput = findPTPAmp();
+          if (micOutput > 500) {
+            Serial.println("knock");
+            beatCheck[i] = true;
+          }
+          if (currentMillis - startMillis >= period + 400) {
+            analogWrite(mvm, 0);
+            Serial.print("Vibre plus ");
+            Serial.println(period);
+            vibrating = false;
+            startMillis = millis();
+            i++;
+          }
         }
-        micOutput = findPTPAmp();
-        if (micOutput > 150) {
-          Serial.println("knock");
-          beatCheck[k] = true;
-        }
-        if (currentMillis - startMillis >= period + 400) {
-          analogWrite(mvm, 0);
-          Serial.print("Vibre plus ");
-          Serial.println(period);
-          running = false;
-          startMillis = millis();
-          k++;
-        }
-      }
-    }
-
-    if (beatCheck[0]) {
-      Serial.println("Premier valide");
-    }
-    if (beatCheck[1]) {
-      Serial.println("Deuxieme valide");
-    }
-    if (beatCheck[2]) {
-      Serial.println("Troisieme valide");
-    }
-    if (beatCheck[3]) {
-      Serial.println("Quatrieme valide");
-    }
-    if (beatCheck[4]) {
-      Serial.println("Cinquieme valide");
-    }
-    if (beatCheck[5]) {
-      Serial.println("Sixieme valide");
-    }
-  }
 }
 
 void DrawBlob() {
@@ -703,93 +630,3 @@ void DrawBlob() {
     }
 }
 
-
-
-
-// currentMillis = millis();
-//   // put your main code here, to run repeatedly:
-//   data = analogRead(vresistor);
-//   //Serial.println(data);
-
-//   data = map(data, 0, 1023, 0, 190);
-//   //Serial.println(data);
-//   //analogWrite(mvm, data);
-
-//   int micOutput = findPTPAmp();
-//   //VUMeter(micOutput);
-//   Serial.println(micOutput);
-
-
-//   if (micOutput > 200) {
-//     boolean beatCheck[sizeof(pattern2) - 6];
-//     for (int j = 0; j < sizeof(pattern2) - 6; j++) {
-//       beatCheck[j] = false;
-//     }
-
-//     for (int i = 0; i < sizeof(pattern2) - 6; i++) {
-//       period = pattern2[i];
-//       currentMillis = millis();
-//       if (currentMillis - startMillis >= period) {
-
-//       }
-//     }
-//   }
-// }
-// else if (micOutput > 6000) {
-
-//   boolean beatCheck[sizeof(pattern1) - 6];
-//   for (int j = 0; j < sizeof(pattern1) - 6; j++) {
-//     beatCheck[j] = false;
-//   }
-
-//   for (int i = 0; i < sizeof(pattern1) - 6; i++) {
-//     period = pattern2[i];
-//     currentMillis = millis();
-//     if (currentMillis - startMillis >= period) {
-//       Serial.println("in");
-//       micOutput = findPTPAmp();
-//       if (micOutput > 150) {
-//         Serial.println("knock1");
-//         beatCheck[i] = true;
-//       }
-//       analogWrite(mvm, power1[i]);
-//       micOutput = findPTPAmp();
-//       if (micOutput > 150) {
-//         Serial.println("knock2");
-//         beatCheck[i] = true;
-//       }
-//       delay(500);
-//       micOutput = findPTPAmp();
-//       if (micOutput > 150) {
-//         Serial.println("knock3");
-//         beatCheck[i] = true;
-//       }
-//       analogWrite(mvm, 0);
-//       micOutput = findPTPAmp();
-//       if (micOutput > 150) {
-//         Serial.println("knock4");
-//         beatCheck[i] = true;
-//       }
-//     }
-//   }
-
-
-//   if (beatCheck[0]) {
-//     Serial.println("Premier valide");
-//   }
-//   if (beatCheck[1]) {
-//     Serial.println("Deuxieme valide");
-//   }
-//   if (beatCheck[2]) {
-//     Serial.println("Troisieme valide");
-//   }
-//   if (beatCheck[3]) {
-//     Serial.println("Quatrieme valide");
-//   }
-//   if (beatCheck[4]) {
-//     Serial.println("Cinquieme valide");
-//   }
-//   if (beatCheck[5]) {
-//     Serial.println("Sixieme valide");
-//   }
-// }
