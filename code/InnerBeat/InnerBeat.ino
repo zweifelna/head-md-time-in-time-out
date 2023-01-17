@@ -7195,9 +7195,9 @@ void loop() {
       state--;
       success = false;
       Serial.println("SUCCESS");
-    } else if (micOutput >= 80 && VUMeter(micOutput) <= 0 && state < 3) {
+    } else if (micOutput >= 100 && VUMeter(micOutput) <= 0 && state < 3) {
       state = 3;
-    } else if (micOutput >= 30 && VUMeter(micOutput) <= 0 && state < 2) {
+    } else if (micOutput >= 50 && VUMeter(micOutput) <= 0 && state < 2) {
       state = 2;
     } else if (state <= 1) {
       state = 1;
